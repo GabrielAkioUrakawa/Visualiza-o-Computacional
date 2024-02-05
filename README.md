@@ -1,0 +1,3 @@
+Projeto para a disciplina de Visualização Computacional em que nós escolhemos um repositório e fizemos uma análise exploratória. Assim, em duas etapas observamos padrões e representamos eles com visualizações adequadas seguindo as aulas da disciplina.
+
+O trabalho 1 consiste no tratamento dos dados e representação de algumas relações entre dados procurando padrões. No trabalho 2 utilizamos essa base para aprimorar as visualizações e criar dashboards que podemos escolher atributos, assim tendo uma visualização interativa.
